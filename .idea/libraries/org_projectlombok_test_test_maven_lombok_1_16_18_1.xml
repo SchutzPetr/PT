@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="org.projectlombok.test:test-maven-lombok:1.16.18.1" type="repository">
+    <properties maven-id="org.projectlombok.test:test-maven-lombok:1.16.18.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/test-maven-lombok-1.16.18.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/validation-api-2.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/test-maven-lombok-1.16.18.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/validation-api-2.0.0.Final-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/test-maven-lombok-1.16.18.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/validation-api-2.0.0.Final-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
